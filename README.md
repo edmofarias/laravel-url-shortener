@@ -29,7 +29,6 @@ Copy the example environment file and generate an application key:
 
 ```bash
 cp .env.example .env
-php artisan key:generate
 ```
 
 ### 4. Configure Storage
