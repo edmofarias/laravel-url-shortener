@@ -1,0 +1,13 @@
+### SEARCH
+POST http://short-url.test/api/shorten
+Content-Type: application/json
+Accept: application/json
+
+{
+    "url": "https://google.com"
+}
+
+### SEARCH
+GET http://short-url.test/api/O1vRQt
+Content-Type: application/json
+Accept: application/json
