@@ -37,7 +37,6 @@ Ensure the storage directory has proper permissions:
 
 ```bash
 chmod -R 775 storage
-chmod -R 775 bootstrap/cache
 ```
 
 ### 5. Start the Development Server
