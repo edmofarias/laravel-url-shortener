@@ -13,7 +13,7 @@ A simple URL shortener API built with Laravel that uses filesystem storage inste
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-url-shortener.git
+git clone https://github.com/edmofarias/laravel-url-shortener.git
 cd laravel-url-shortener
 ```
 
